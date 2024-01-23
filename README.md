@@ -1,6 +1,6 @@
 <!-- @format -->
 
-# English README 　[Jump to Japanese Version](#japanese)
+# English & Japanese
 
 # Usefull Links ・ 便利なリンク
 
