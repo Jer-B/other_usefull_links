@@ -29,6 +29,12 @@ Here are the writeups of my solutions levels I cleared.
 - [Code.org](https://code.org/) - Learn to code by playing games
 - [CodeHS](https://codehs.com/) - Learn to code by playing games
 
+## SQL Game ・ SQL ゲーム
+
+- [Knight Lab](https://mystery.knightlab.com/) - Detective Game
+- [SQLIsland](https://sql-island.informatik.uni-kl.de/) - Survival
+- [SQLPD](https://sqlpd.com/) - Detective Game
+
 # University Courses ・ 大学のコース
 
 Those courses are free and are a great way to learn about programming and computer science. <br />
@@ -50,6 +56,8 @@ Those are courses actually given in the university itself through a semester. <b
 - [Blockchain Engineer with Javascript / Typescript](https://github.com/smartcontractkit/full-blockchain-solidity-course-js) - Patrick Collins - 32 hours course on Solidity and Smart Contracts with Javascript
 - [Blockchain Engineer with Python](https://www.freecodecamp.org/news/learn-solidity-blockchain-and-smart-contracts-in-a-free/) - Patrick Collins - 16 hours course on Solidity and Smart Contracts with Python
 
+- [LearnWeb3](https://learnweb3.io/) - Various tutorials for different chains and tools, from beginner to advanced
+
 ## Challenges ・　チャレンジ
 
 - [Ethernaut](https://ethernaut.openzeppelin.com/) - OpenZeppelin - 21 challenges to learn about smart contracts security
@@ -59,3 +67,4 @@ Those are courses actually given in the university itself through a semester. <b
 ## Others ・ その他
 
 - [Icon for your project](https://www.pngwing.com/) - pngwing
+- [Icon for your project](https://www.flaticon.com/) - flaticon
